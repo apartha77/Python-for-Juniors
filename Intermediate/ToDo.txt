@@ -1,0 +1,2 @@
+1. Detail Variables - Variables names (camel, pascal, snake), assign multiple values, output varibales, global variables
+2. 
